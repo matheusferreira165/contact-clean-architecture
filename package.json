@@ -1,0 +1,24 @@
+{
+  "name": "user-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongodb": "^4.0.7",
+    "@types/node": "^20.11.30",
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "tsx": "^4.7.1"
+  }
+}

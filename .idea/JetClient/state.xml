@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="e81b77ed-3d8d-4756-9f11-5a9f67b113fc" />
+          <option name="name" value="API-PROJECT" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="description" value="Pegar todos contacts" />
+                <option name="id" value="bde18f76-2199-4f6b-9128-8bfc30a4b0ef" />
+                <option name="method" value="GET" />
+                <option name="name" value="GET" />
+                <option name="url" value="http://localhost:4000/contact" />
+              </requestState>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="raw" value="{&#10;  &quot;id&quot;: &quot;2&quot;,&#10;  &quot;email&quot;: &quot;matheus123@hotmail.com&quot;,&#10;  &quot;firstName&quot;: &quot;Matheus&quot;,&#10;  &quot;surname&quot;: &quot;Henrique&quot;&#10;}" />
+                    <option name="type" value="JSON" />
+                  </bodyState>
+                </option>
+                <option name="description" value="Cadastrar todos contatos" />
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="7123996a-c216-460c-8dee-15807490dcef" />
+                <option name="method" value="POST" />
+                <option name="name" value="Cadastrar Contact" />
+                <option name="url" value="http://localhost:4000/contact" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="ccfb4598-2432-4a00-a62f-d5635ad5ac03" />
+  </component>
+</project>
